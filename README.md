@@ -10,11 +10,11 @@
 ### 1. NSMC 영화리뷰 데이터 감정 분석 (`nsmc_emotion_analysis_by_BERT.ipynb`)
 
 - <b>모델</b>  <br>
-<t>KOELECTRA Version 3 사용</t>
+<t>KOELECTRA Base Version 3 사용</t>
 
 - <b>실행 방법</b>  
 <t>1. nsmc 데이터 본인 구글드라이브에 업로드후 경로 설정<br>
-<t>2. 모든 셀 실행을 통해 1) 데이터 전처리, 2) 모델 구현 및 학습, 3) test set 결과 확인 및 csv 파일 변환< 가능
+<t>2. 모든 셀 실행을 통해 1) 데이터 전처리, 2) 모델 구현 및 학습, 3) 테스트셋 결과 확인 및 csv 파일 저장
 
 - <b>데이터 출처</b>  
 <t>[https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
@@ -36,7 +36,7 @@
 
 - <b>실행 방법</b>  
 <t>1. friends 데이터 본인 구글드라이브에 업로드후 경로 설정<br>
-<t>2. 모든 셀 실행을 통해 1) 데이터 전처리, 2) 모델 구현 및 학습, 3) test set 결과 확인 및 csv 파일 변환 가능
+<t>2. 모든 셀 실행을 통해 1) 데이터 전처리, 2) 모델 구현 및 학습, 3) 테스트셋 결과 확인 및 csv 파일 저장
 
 
 - <b>데이터 출처</b>  
