@@ -3,7 +3,8 @@
 ### 0. 실행 환경
 - `google colab` 에서 진행.
 - `pytorch`, `transformer` 라이브러리 활용
-- GPU 및 TPU 사용하여 학습 (TPU사용시에는 tpu_use값을 True로 설정)
+- GPU 및 TPU 사용하여 학습 
+  (TPU사용시에는 TPU관련 라이브러리코드 주석해제후 tpu_use값을 True로 설정후 )
 
 <br>
 
