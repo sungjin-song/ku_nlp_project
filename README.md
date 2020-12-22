@@ -1,12 +1,12 @@
 # 자연어 딥러닝 기술을 활용한 감정분석 
-<t>###by sungjin song</t>
+###<t>by sungjin song
 
 ### 0. 실행 환경
 - google `colab` 에서 진행.
 - 런타임 유형 하드웨어 가속기 : GPU 및 TPU (TPU사용시에는 tpu_use값을 True로 설정)
-- `pytorch`, 'transformer' 라이브러리 활용
+- `pytorch`, `transformer` 라이브러리 활용
 <br>
-### 1. NSMC 영화리뷰 데이터 감정 분석
+###1. NSMC 영화리뷰 데이터 감정 분석
 
 `nsmc_emotion_analysis_by_BERT.ipynb`  
 
@@ -23,11 +23,11 @@
 
 - <b>참고문헌 및 코드</b>    
 
-<t>[모델 학습 관련 소스코드 : https://github.com/deepseasw/bert-naver-movie-review] (https://github.com/deepseasw/bert-naver-movie-review)</t>
+<t>[모델 학습 관련 소스코드 : https://github.com/deepseasw/bert-naver-movie-review](https://github.com/deepseasw/bert-naver-movie-review)
 
-<t>[KoELECTRA 모델 코드: https://github.com/monologg/KoELECTRA](https://github.com/monologg/KoELECTRA)</t>
+<t>[KoELECTRA 모델 코드: https://github.com/monologg/KoELECTRA](https://github.com/monologg/KoELECTRA)
 
-<t>[한국어 감정 추가 학습데이터: https://github.com/park1200656/KnuSentiLex](https://github.com/park1200656/KnuSentiLex)</t>
+<t>[한국어 감정 추가 학습데이터: https://github.com/park1200656/KnuSentiLex](https://github.com/park1200656/KnuSentiLex)
 
 <br>
 
@@ -43,17 +43,13 @@
 
 
 - <b>데이터 출처</b>  
-<t>[http://doraemon.iis.sinica.edu.tw/emotionlines/index.html](http://doraemon.iis.sinica.edu.tw/emotionlines/index.html)</t>
+<t>[http://doraemon.iis.sinica.edu.tw/emotionlines/index.html](http://doraemon.iis.sinica.edu.tw/emotionlines/index.html)
 
 
 - <b>참고문헌 및 코드</b>  
 
-<t>[모델 학습 관련 소스코드(실습7) : https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing](https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing)</t>
+<t>[모델 학습 관련 소스코드(실습7) : https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing](https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing)
 
-<t>[영어 감정 추가 학습데이터: https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp)</t>
-
-
+<t>[영어 감정 추가 학습데이터: https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp)
 
 <br>
-
-
