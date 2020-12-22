@@ -18,14 +18,13 @@
 - <b>데이터 출처</b>  
 <t>[https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
 
+<t>[한국어 감정 추가 학습데이터: https://github.com/park1200656/KnuSentiLex](https://github.com/park1200656/KnuSentiLex)
 
 - <b>참고문헌 및 코드</b>    
 
 <t>[모델 학습 관련 소스코드 : https://github.com/deepseasw/bert-naver-movie-review](https://github.com/deepseasw/bert-naver-movie-review)
 
 <t>[KoELECTRA 모델 코드: https://github.com/monologg/KoELECTRA](https://github.com/monologg/KoELECTRA)
-
-<t>[한국어 감정 추가 학습데이터: https://github.com/park1200656/KnuSentiLex](https://github.com/park1200656/KnuSentiLex)
 
 <br>
 
@@ -42,11 +41,11 @@
 - <b>데이터 출처</b>  
 <t>[http://doraemon.iis.sinica.edu.tw/emotionlines/index.html](http://doraemon.iis.sinica.edu.tw/emotionlines/index.html)
 
+<t>[영어 감정 추가 학습데이터: https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp)
 
 - <b>참고문헌 및 코드</b>  
 
 <t>[모델 학습 관련 소스코드(실습7) : https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing](https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing)
 
-<t>[영어 감정 추가 학습데이터: https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp)
 
 <br>
