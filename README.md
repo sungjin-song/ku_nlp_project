@@ -20,7 +20,7 @@
 - <b>데이터 출처</b>  
 <t>[https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
 
-<t>[한국어 감정 추가 학습데이터: https://github.com/park1200656/KnuSentiLex](https://github.com/park1200656/KnuSentiLex)
+<t>[한국어 감정 추가 학습데이터: 긍정(/dic/pos_pol_word.txt), 부정(/dic/neg_pol_word.txt)](https://github.com/park1200656/KnuSentiLex)
 
 - <b>참고문헌 및 코드</b>    
 
@@ -43,7 +43,7 @@
 - <b>데이터 출처</b>  
 <t>[http://doraemon.iis.sinica.edu.tw/emotionlines/index.html](http://doraemon.iis.sinica.edu.tw/emotionlines/index.html)
 
-<t>[영어 감정 추가 학습데이터: https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp)
+<t>[영어 감정 추가 학습데이터: /data/kaggle_train.txt](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp)
 
 - <b>참고문헌 및 코드</b>  
 
