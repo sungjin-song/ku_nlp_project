@@ -1,17 +1,15 @@
 # 자연어 딥러닝 기술을 활용한 감정분석 
-# by 2019516001 송성진
+### by sungjin song
 
 ### 0. 실행 환경
 - google `colab` 에서 진행.
 - 런타임 유형 하드웨어 가속기 : GPU 및 TPU (TPU사용시에는 tpu_use를 True로 설정)
 - `pytorch`, 'transformer' 라이브러리 활용
-
 <br>
-
 ### 1. NSMC 영화리뷰 데이터 감정 분석
 
 `nsmc_emotion_analysis_by_BERT.ipynb`  
-- KOELECTRA Version 3 모델 사용
+<b>- 모델</b> KOELECTRA Version 3 사용
 
 - <b>실행 방법</b>  
 <t>1. nsmc 데이터 본인 구글드라이브에 업로드후 경로 설정
@@ -23,8 +21,7 @@
 
 - <b>참고문헌 및 코드</b>    
 
-<t>[모델 학습 관련 소스코드 : 
-https://github.com/deepseasw/bert-naver-movie-review] (https://github.com/deepseasw/bert-naver-movie-review)
+<t>[모델 학습 관련 소스코드 : https://github.com/deepseasw/bert-naver-movie-review] (https://github.com/deepseasw/bert-naver-movie-review)
 
 <t>[KoELECTRA 모델 코드: https://github.com/monologg/KoELECTRA](https://github.com/monologg/KoELECTRA)
 
@@ -35,7 +32,7 @@ https://github.com/deepseasw/bert-naver-movie-review] (https://github.com/deepse
 ### 2. Friends 영화대본 데이터 감정 분석
 
 `friends_emotion_analysis_by_BERT.ipynb`  
-- Bert base 모델 사용
+<b>- 모델</b> Bert base 사용
 
 - <b>실행 방법</b>  
 <t>1. friends 데이터 본인 구글드라이브에 업로드후 경로 설정
