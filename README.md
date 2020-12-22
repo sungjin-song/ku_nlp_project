@@ -29,7 +29,7 @@
 
 <br>
 
-### 2. Friends 영화대본 데이터 감정 분석(`friends_emotion_analysis_by_BERT.ipynb`)
+### 2. Friends 시트콤대본 데이터 감정 분석(`friends_emotion_analysis_by_BERT.ipynb`)
 
 - <b>모델</b><br>
 <t>Bert base 사용</t>
