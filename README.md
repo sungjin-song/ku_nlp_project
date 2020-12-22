@@ -1,12 +1,12 @@
 # 자연어 딥러닝 기술을 활용한 감정분석 
 
-###0. 실행 환경
+### 0. 실행 환경
 - `google colab` 에서 진행.
 - 런타임 유형 하드웨어 가속기 : GPU 및 TPU (TPU사용시에는 tpu_use값을 True로 설정)
 - `pytorch`, `transformer` 라이브러리 활용
 <br>
 
-###1. NSMC 영화리뷰 데이터 감정 분석 (`nsmc_emotion_analysis_by_BERT.ipynb`)
+### 1. NSMC 영화리뷰 데이터 감정 분석 (`nsmc_emotion_analysis_by_BERT.ipynb`)
 
 - <b>모델</b>  <br>
 <t>KOELECTRA Version 3 사용</t>
